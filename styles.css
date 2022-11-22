@@ -99,7 +99,7 @@ footer a:focus {
 }
 
 /* RESPONSIVE LAYOUT */
-@media (max-width: 980px) {
+@media (max-width: 1024px) {
 	article.featured {
 		display: block;
 		margin: 0;
