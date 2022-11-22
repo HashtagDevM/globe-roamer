@@ -1,2 +1,2 @@
 # globe-roamer
-A blog website built using CSS Grid.
+A basic template for a blog website, built using CSS Grid.
