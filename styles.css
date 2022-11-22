@@ -71,11 +71,6 @@ article.featured {
 	padding-bottom: 2.5em;
 }
 
-article p,
-article h3 {
-	margin: 1.25em 0.625em;
-}
-
 footer {
 	text-align: center;
 	margin: 2.5em auto;
